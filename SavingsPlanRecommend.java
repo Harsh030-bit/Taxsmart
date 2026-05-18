@@ -31,7 +31,7 @@ public class TaxSmartPlanner {
         salaryField.setBounds(320, 100, 250, 30);
         panel.add(salaryField);
 
-        // Age Input
+        // Age Input added a comment here User can in[/put thier age here
         JLabel ageLabel = new JLabel("Enter Your Age:");
         ageLabel.setBounds(80, 160, 250, 30);
         ageLabel.setFont(new Font("Arial", Font.PLAIN, 18));
